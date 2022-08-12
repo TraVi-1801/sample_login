@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730207684145",
+    "project_id": "samplelogin-bdd65",
+    "storage_bucket": "samplelogin-bdd65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730207684145:android:5a464ca700eb765c90f710",
+        "android_client_info": {
+          "package_name": "com.example.samplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730207684145-93eue447g64jj57gunb6cd6pdlo9o6b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samplelogin",
+            "certificate_hash": "3812d7a200ea5c2def59c70ede17c0ec4fe134da"
+          }
+        },
+        {
+          "client_id": "730207684145-1mhruoj75t7a58u88j9kc1rf450gp1ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQs9tHUZn-wxOWk4xyzvD0EhmjdalLRgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730207684145-1mhruoj75t7a58u88j9kc1rf450gp1ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

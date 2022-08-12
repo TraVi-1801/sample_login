@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleLogin</string>
+
+    <string name="facebook_app_id">1094524514498547</string>
+    <string name="fb_login_protocol_scheme">fb1094524514498547</string>
+    <string name="facebook_client_token">863edd974f5459e7377256797c264fc6</string>
+    <string name="WEB_CLIENT_ID">730207684145-1mhruoj75t7a58u88j9kc1rf450gp1ge.apps.googleusercontent.com</string>
+
+</resources>
